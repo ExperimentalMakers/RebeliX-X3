@@ -1,6 +1,6 @@
-RebeliX
+RebeliX X3
 =======
-RebeliX – a 3D printer inspired by constructions of Rebel II a Prusa i3. Licensed as GPLv3. Howto and list of materials is available on www.RebeliX.cz (currently only in Czech, we are working on it, help is appreciated).
+RebeliX X3 - a 3D printer based on MLAB's variant of RbeliX open-source 3D printer. New version will be constructed with [igus bearings](https://www.igus.cz/drylin/linear-guide).
 
 Features
 =====
