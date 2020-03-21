@@ -1,6 +1,6 @@
 RebeliX X3
 =======
-RebeliX X3 - a 3D printer based on MLAB's variant of RbeliX open-source 3D printer. New version will be constructed with [igus bearings](https://www.igus.cz/drylin/linear-guide).
+RebeliX X3 - a 3D printer based on MLAB's variant of RbeliX open-source 3D printer. New version will be constructed with [igus bearings](https://www.igus.cz/drylin/linear-guide). We are using [this](https://github.com/nophead/NopSCADlib) OpenSCAD library.
 
 Features
 =====
